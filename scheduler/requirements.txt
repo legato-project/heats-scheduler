@@ -1,0 +1,2 @@
+influxdb==3.0.0
+kubernetes==3.0.0
